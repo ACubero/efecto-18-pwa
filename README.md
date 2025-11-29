@@ -1,6 +1,6 @@
 # ⚡ Efecto 18: AI-Driven Productivity PWA
 
-![Project Banner](https://placehold.co/1200x300/1e293b/38bdf8?text=Architecture+%2B+AI+%2B+Productivity&font=roboto)
+![Project Banner](./screenshots/banner.png))
 > **Una implementación técnica de la metodología "18 Minutos" de Peter Bregman, desarrollada mediante Ingeniería de Prompts avanzada y Arquitectura de Software asistida por IA.**
 
 [🔗 **Ver Demo en Vivo**](https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk) | [📄 **Ver Prompt Original**](https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk)
