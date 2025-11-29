@@ -14,4 +14,4 @@ En estos blinks, aprenderán sobre lo siguiente: lo que la función “deshacer 
 Crea el prompt detallado y necesario en inglés para que la IA genere esta aplicación con vibe coding y en un one shot. Si es necesario usar base de datos que se use indexedb y que exista en la configuración en la aplicación una opción para hacer backup y restore de los datos
 
 # Prompt 3
-[🔗 **Ver Demo en Vivo**]([https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk]) | [📄 **Ver Prompt Original**]([https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk])
+[🔗 **Ver Demo en Vivo**](https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk) | [📄 **Ver Prompt Original**](https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk)
