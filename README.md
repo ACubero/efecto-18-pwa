@@ -3,8 +3,7 @@
 ![Project Banner](https://via.placeholder.com/1200x300/1e293b/38bdf8?text=Architecture+%2B+AI+%2B+Productivity)
 > **Una implementación técnica de la metodología "18 Minutos" de Peter Bregman, desarrollada mediante Ingeniería de Prompts avanzada y Arquitectura de Software asistida por IA.**
 
-[🔗 **Ver Demo en Vivo**]([TU_URL_DE_PRUEBAS]) | [📄 **Ver Prompt Original**]([ENLACE_A_UN_GIST_O_ARCHIVO_DEL_PROMPT_SI_QUIERES])
-
+[🔗 **Ver Demo en Vivo**](https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk) | [📄 **Ver Prompt Original**](https://ai.studio/apps/drive/1-1LToRckq3LC-XKoO5tmMvUdHQ51iybk)
 ---
 
 ## 🎯 Visión del Proyecto
