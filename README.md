@@ -14,6 +14,25 @@ La aplicación actúa como un "Centinela de la Atención", utilizando **Service 
 
 ---
 
+## 📸 Tour Visual de la Aplicación
+
+El diseño sigue estrictamente los principios de "Cognitive Ease": interfaces limpias, alto contraste para acciones clave y ocultación de elementos no esenciales.
+
+| **1. Configuración & Setup** | **2. Planificación del Día** |
+|:---:|:---:|
+| ![Pantalla de Inicio](./screenshots/screenshot_01.png) | ![Panel de Planificación](./screenshots/screenshot_02.png) |
+| *Definición de las 5 Áreas de Enfoque* | *Time-Boxing y Drag & Drop* |
+
+| **3. Ejecución (El Centinela)** | **4. Modo Foco** |
+|:---:|:---:|
+| ![Alerta Horaria](./screenshots/screenshot_03.png) | ![Interfaz de Trabajo](./screenshots/screenshot_04.png) |
+| *Verificación de Intención vs. Acción* | *Vista minimalista durante el trabajo* |
+
+| **5. Protocolo de Pausa** | **6. Revisión Nocturna** |
+|:---:|:---:|
+| ![Efecto Blur](./screenshots/screenshot_05.png) | ![Resumen del Día](./screenshots/screenshot_06.png) |
+| *Intervención de "Respiración" antes de distracciones* | *Cierre de loops y limpieza de datos* |
+
 ## 🤖 El Rol del Desarrollador en la Era de la IA
 
 Este proyecto sirve como demostración práctica de cómo el rol del desarrollador evoluciona de "escribir código" a "orquestar soluciones". 
